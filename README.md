@@ -9,10 +9,10 @@ This repository contains a C++ implementation of the A\* pathfinding algorithm. 
 To compile the source code, run:
 
 ```bash
-g++ -std=c++17 -o astar astar.cpp
+g++ -std=c++17 -o a.out astar.cpp
 ```
 
-This will produce an executable named `astar`.
+This will produce an executable named `a.out`.
 
 ---
 
@@ -21,7 +21,7 @@ This will produce an executable named `astar`.
 1. **Build the executable** (if you haven’t already):
 
    ```bash
-   g++ -std=c++17 -o astar astar.cpp
+   g++ -std=c++17 -o a.out astar.cpp
    ```
 
 2. **Make the test runner executable** and run it:
